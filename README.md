@@ -19,7 +19,9 @@ Another important feature of the project is social awareness. When the temperatu
 
 
 # output
+
 # output 1
 <img width="941" height="710" alt="Image" src="https://github.com/user-attachments/assets/36477f19-88d6-4afd-8e51-c42492f35540" />
+
 # output 2
 <img width="1195" height="784" alt="Image" src="https://github.com/user-attachments/assets/1fc227dc-9ffc-4bf3-a49a-7f5247957bda" />
