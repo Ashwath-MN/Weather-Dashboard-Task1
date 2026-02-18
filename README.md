@@ -1,12 +1,22 @@
-# Weather-Dashboard-Task1
-Weather Dashboard Application using React
-COMPANY: CODTECH IT SOLUTION
-NAME: ASHWATH M N
-INTERN ID:CTIS5748
-DOMAIN: React.js Web Development
-DURATION: 16 Weeks
-Period: 12/FEB/26 TO 26/MAR/26
-MENTOR: NEELA SANTOSH
+# Weather-Dashboard-Task1  
+
+Weather Dashboard Application using React  
+
+COMPANY: CODTECH IT SOLUTION  
+
+NAME: ASHWATH M N  
+
+INTERN ID:CTIS5748  
+
+DOMAIN: React.js Web Development  
+
+DURATION: 6 Weeks  
+
+Period: 12/FEB/26 TO 26/MAR/26  
+
+MENTOR: NEELA SANTOSH 
+
+
 
 # Project Description
 The Weather Dashboard is a simple and user-friendly web application developed using React.js to display real-time weather information of different cities. The main aim of this project is to build an interactive system where users can check the current weather conditions of any city by entering its name. The application connects to an external weather service (OpenWeather API) to fetch live weather data and display it in a clear and understandable format.
