@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make full screen */
+html, body, #root {
+  height: 100%;
+}
+
+/* Center everything */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
